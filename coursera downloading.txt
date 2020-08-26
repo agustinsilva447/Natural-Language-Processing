@@ -3,9 +3,3 @@ comandos para descargar archivos en coursera
 rm -f ~/workspace.tar.gz && rm  -f ~/work/workspace.tar.gz
 tar -czf ~/workspace.tar.gz ~/work
 mv ~/workspace.tar.gz ~/work/workspace.tar.gz
-
-Lecture Notebook - Data Preparation
-Lecture Notebook - Intro to CBOW model
-Lecture Notebook - Training the CBOW model
-Lecture Notebook - Word Embeddings
-Lecture notebook - Word embeddings step by step
